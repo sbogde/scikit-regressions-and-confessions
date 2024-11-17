@@ -1,2 +1,3 @@
-# scikit-regressions-and-confessions
-regression and classification with scikit-learn; wlv-ml-notebooks; 
+# intro-to-ml-scikit
+Regression and classification with scikit-learn; 
+wlv-ml-notebooks; 
